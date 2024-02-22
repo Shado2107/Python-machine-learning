@@ -1,0 +1,26 @@
+{
+  "name": "data_analyst",
+  "version": "1.0.0",
+  "description": "Bienvenue dans le référentiel dédié à l'apprentissage personnel \r de Pandas ! Ce référentiel vise à fournir une ressource complète pour \r quiconque souhaite maîtriser l'utilisation de la bibliothèque Pandas en \r Python pour la manipulation et l'analyse de données.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shado2107/Python-machine-learning.git"
+  },
+  "keywords": [
+    "Pandas",
+    "Python",
+    "Data Analysis",
+    "Data Manipulation"
+  ],
+  "author": "Pavel Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shado2107/Python-machine-learning.git/issues"
+  },
+  "homepage": "https://github.com/Shado2107/Python-machine-learning.git#readme"
+  
+}
