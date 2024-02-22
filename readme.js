@@ -11,4 +11,5 @@ Credits: [Shado2107](https://github.com/Shado2107)
 <#gabot_signing>
 
 Last Edited on: <#today_date>
-` 
+
+`; 
